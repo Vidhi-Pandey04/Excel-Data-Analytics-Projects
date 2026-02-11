@@ -1,5 +1,3 @@
-# Excel-Data-Analytics-Projects
-This repository contains excel dashboards and data analytics projects.
 # Excel Data Analytics Projects
 
 This repository contains business data analysis and dashboard projects built using Microsoft Excel.
